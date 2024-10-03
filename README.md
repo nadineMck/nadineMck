@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/nadineMck/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves" />
+  <img src="https://pin.it/2cj0Jwr0a" />
 </p>
 
 ## 🚀 About Me
