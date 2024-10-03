@@ -74,6 +74,11 @@
 - Designed and developed a secure proxy server with authentication and Web Application Firewall
 - Implemented efficient caching mechanisms and TCP protocol optimization
 - Tech stack: Python, Flask, Socket Programming, HTML/CSS, JavaScript
+
+### Demos
+<a href="https://www.youtube.com/playlist?list=PLVLsg1FC2tEtsiXrBAKiA0rvDz5QUFobn">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   
 ## 📫 Let's Connect
 
@@ -83,8 +88,5 @@
   </a>
   <a href="mailto:nnm30@mail.aub.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLVLsg1FC2tEtsiXrBAKiA0rvDz5QUFobn">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
