@@ -47,6 +47,8 @@
 
 ## 🌱 Projects
 
+**Note: Find project demos linked below each project on YouTube**
+
 ### Feel-The-Flow - Dynamic Sound from Motion
 - Developed a system that generates dynamic music based on real-time or pre-recorded motion
   data from sensors such as accelerometers and gyroscopes
@@ -57,7 +59,11 @@
 - Provides visualizations of both the motion data (accelerometer/gyroscope) and the spectrogram
   of the generated music
   
-### FlutterForecast - Locust Detection Platform
+### FlutterForecast - Locust Detection Platform  
+<a href="https://youtu.be/lVv7oZIrXSI">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a> 
+    
 - Led ML team in developing a platform for NGOs and farmers
 - Utilized NASA's PriThvi-100M geospatial model
 - Implemented advanced image processing techniques on satellite imagery
@@ -67,6 +73,10 @@
 - Implemented techniques to analyze function coverage
 
 ### IVISION - Earth Observation Data Integration
+<a href="https://youtu.be/Tji_Oae-vpk">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    
 - Developed a web-based GIS application integrating data from Earth-observing platforms
 - Implemented data fusion algorithms and Fast Fourier Transform
 
@@ -75,11 +85,6 @@
 - Implemented efficient caching mechanisms and TCP protocol optimization
 - Tech stack: Python, Flask, Socket Programming, HTML/CSS, JavaScript
 
-### Demos
-<a href="https://www.youtube.com/playlist?list=PLVLsg1FC2tEtsiXrBAKiA0rvDz5QUFobn">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  
 ## 📫 Let's Connect
 
 <p align="center">
