@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="background-color:#800080;padding:20px;border-radius:15px;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nadine+Mcheik&center=true&size=30">
 </h1>
 
@@ -41,10 +41,21 @@
 - 🥇 1st place, Amazon Industry Program 3.0, Project FlutterForecast
 - 🥇 1st place, 42 Beirut & Blackbox.ai Hackathon, Project TestSuite
 - 🏅 Top 8, AUBPC (competitive programming competition)
+- 🏅 Among top 7 teams, NASA Space Apps Challenge Lebanon
 - 🌟 Ranked #1 in Lebanon, Baccalaureate Exams
 
 ## 🌱 Projects
 
+### Feel-The-Flow - Dynamic Sound from Motion
+- Developed a system that generates dynamic music based on real-time or pre-recorded motion
+  data from sensors such as accelerometers and gyroscopes
+- Motion-to-Music Mapping: Converts motion data into musical elements like melody, chords,
+  and rhythm, reflecting movement intensity and patterns
+- Integrated custom chord progressions that adapt to the intensity of motion, offering a wide
+  range of musical scales
+- Provides visualizations of both the motion data (accelerometer/gyroscope) and the spectrogram
+  of the generated music
+  
 ### FlutterForecast - Locust Detection Platform
 - Led ML team in developing a platform for NGOs and farmers
 - Utilized NASA's PriThvi-100M geospatial model
@@ -58,6 +69,11 @@
 - Developed a web-based GIS application integrating data from Earth-observing platforms
 - Implemented data fusion algorithms and Fast Fourier Transform
 
+### ProxyPro - Secure Proxy Server
+- Designed and developed a secure proxy server with authentication and Web Application Firewall
+- Implemented efficient caching mechanisms and TCP protocol optimization
+- Tech stack: Python, Flask, Socket Programming, HTML/CSS, JavaScript
+  
 ## 📫 Let's Connect
 
 <p align="center">
