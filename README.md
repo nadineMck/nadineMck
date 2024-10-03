@@ -1,5 +1,5 @@
-<h1 align="center" style="background-color:#800080;padding:20px;border-radius:15px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nadine+Mcheik&center=true&size=30">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nadine+Mcheik&center=true&size=30&color=800080&duration=2000">
 </h1>
 
 <p align="center">
@@ -83,14 +83,4 @@
   <a href="mailto:nnm30@mail.aub.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadineMck&show_icons=true&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadineMck&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
