@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://pin.it/2cj0Jwr0a" />
+  <img src="https://github.com/nadineMck/nadineMck/blob/main/download%20(5).jpeg" />
 </p>
 
 ## 🚀 About Me
