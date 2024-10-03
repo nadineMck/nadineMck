@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nadine+Mcheik&center=true&size=30">
+<h1 align="center" style="background-color:#800080;padding:20px;border-radius:10px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile!+👋;I'm+Nadine+Mcheik!;Computer+Science+and+Physics+Double+Major&center=true&size=30&color=FFFFFF">
 </h1>
 
 <p align="center">
@@ -9,18 +9,26 @@
 </p>
 
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/nadineMck/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves" />
+  <img src="https://api.githubtrends.io/user/svg/NadineMcheik/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves" />
 </p>
+
+---
 
 ## 🚀 About Me
 
-🎓 Double majoring in **Computer Science and Engineering** & **Physics** at the American University of Beirut
+<p align="center" style="background-color:#800080;padding:15px;border-radius:10px;">
+  <img src="https://img.shields.io/badge/Double%20Major-CS%20%26%20Physics-blueviolet?style=for-the-badge" />
+</p>
 
-🔬 Following the **Theory and Algorithms** track
+🎓 I'm double majoring in **Computer Science and Engineering** & **Physics** at the American University of Beirut.
 
-💡 Passionate about **Machine Learning**, **Data Processing**, and **Earth Observation**
+🔬 Following the **Theory and Algorithms** track.
 
-🏆 Winner of multiple hackathons and programming competitions
+💡 Passionate about **Machine Learning**, **Data Processing**, and **Earth Observation**.
+
+🏆 Winner of multiple hackathons and programming competitions.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -36,45 +44,51 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+---
+
 ## 🏆 Achievements
 
-- 🥇 1st place, Amazon Industry Program 3.0, Project FlutterForecast
-- 🥇 1st place, 42 Beirut & Blackbox.ai Hackathon, Project TestSuite
-- 🏅 Top 8, AUBPC (competitive programming competition)
-- 🌟 Ranked #1 in Lebanon, Baccalaureate Exams
+- 🥇 1st place, Amazon Industry Program 3.0, Project **FlutterForecast**
+- 🥇 1st place, 42 Beirut & Blackbox.ai Hackathon, Project **TestSuite**
+- 🏅 Top 8, **AUBPC** (competitive programming competition)
+- 🌟 Ranked #1 in Lebanon, **Baccalaureate Exams**
+
+---
 
 ## 🌱 Projects
 
 ### FlutterForecast - Locust Detection Platform
-- Led ML team in developing a platform for NGOs and farmers
-- Utilized NASA's PriThvi-100M geospatial model
-- Implemented advanced image processing techniques on satellite imagery
+- Led ML team in developing a platform for NGOs and farmers.
+- Utilized NASA's PriThvi-100M geospatial model.
+- Implemented advanced image processing techniques on satellite imagery.
 
 ### TestSuite - Automated Testing Tool
-- Created an AI-powered tool for generating unit tests and docstrings
-- Implemented techniques to analyze function coverage
+- Created an AI-powered tool for generating unit tests and docstrings.
+- Implemented techniques to analyze function coverage.
 
 ### IVISION - Earth Observation Data Integration
-- Developed a web-based GIS application integrating data from Earth-observing platforms
-- Implemented data fusion algorithms and Fast Fourier Transform
+- Developed a web-based GIS application integrating data from Earth-observing platforms.
+- Implemented data fusion algorithms and Fast Fourier Transform.
+
+---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadine-mcheik">
+  <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nadinemcheik0@gmail.com">
+  <a href="mailto:nnm30@mail.aub.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadineMck&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NadineMcheik&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadineMck&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=NadineMcheik&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
