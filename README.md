@@ -60,10 +60,6 @@
   of the generated music
   
 ### FlutterForecast - Locust Detection Platform  
-<a href="https://youtu.be/lVv7oZIrXSI">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a> 
-    
 - Led ML team in developing a platform for NGOs and farmers
 - Utilized NASA's PriThvi-100M geospatial model
 - Implemented advanced image processing techniques on satellite imagery
@@ -73,10 +69,6 @@
 - Implemented techniques to analyze function coverage
 
 ### IVISION - Earth Observation Data Integration
-<a href="https://youtu.be/Tji_Oae-vpk">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    
 - Developed a web-based GIS application integrating data from Earth-observing platforms
 - Implemented data fusion algorithms and Fast Fourier Transform
 
