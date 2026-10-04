@@ -1,89 +1,256 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nadine+Mcheik&center=true&size=30&color=800080&duration=2000">
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Physics-Enthusiast-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPA-4.0%2F4.0-brightgreen?style=for-the-badge" />
+  <img src="./assets/hero.svg" alt="Nadine Mcheik — research profile" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/nadineMck/nadineMck/blob/main/download%20(5).jpeg" />
-</p>
-
-## 🚀 About Me
-
-🎓 Double majoring in **Computer Science and Engineering** & **Physics** at the American University of Beirut
-
-🔬 Following the **Theory and Algorithms** track
-
-💡 Passionate about **Machine Learning**, **Data Processing**, and **Earth Observation**
-
-🏆 Winner of multiple hackathons and programming competitions
-
-## 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-9B59B6?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-A569BD?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-C39BD3?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-D7BDE2?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-AF7AC5?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-884EA0?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-C71585?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-DB7093?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-## 🏆 Achievements
-
-- 🥇 1st place, Amazon Industry Program 3.0, Project FlutterForecast
-- 🥇 1st place, 42 Beirut & Blackbox.ai Hackathon, Project TestSuite
-- 🏅 Top 8, AUBPC (competitive programming competition)
-- 🏅 Among top 7 teams, NASA Space Apps Challenge Lebanon
-- 🌟 Ranked #1 in Lebanon, Baccalaureate Exams
-
-## 🌱 Projects
-
-**Note: Find project demos linked below each project on YouTube**
-
-### Feel-The-Flow - Dynamic Sound from Motion
-- Developed a system that generates dynamic music based on real-time or pre-recorded motion
-  data from sensors such as accelerometers and gyroscopes
-- Motion-to-Music Mapping: Converts motion data into musical elements like melody, chords,
-  and rhythm, reflecting movement intensity and patterns
-- Integrated custom chord progressions that adapt to the intensity of motion, offering a wide
-  range of musical scales
-- Provides visualizations of both the motion data (accelerometer/gyroscope) and the spectrogram
-  of the generated music
-  
-### FlutterForecast - Locust Detection Platform  
-- Led ML team in developing a platform for NGOs and farmers
-- Utilized NASA's PriThvi-100M geospatial model
-- Implemented advanced image processing techniques on satellite imagery
-
-### TestSuite - Automated Testing Tool
-- Created an AI-powered tool for generating unit tests and docstrings
-- Implemented techniques to analyze function coverage
-
-### IVISION - Earth Observation Data Integration
-- Developed a web-based GIS application integrating data from Earth-observing platforms
-- Implemented data fusion algorithms and Fast Fourier Transform
-
-### ProxyPro - Secure Proxy Server
-- Designed and developed a secure proxy server with authentication and Web Application Firewall
-- Implemented efficient caching mechanisms and TCP protocol optimization
-- Tech stack: Python, Flask, Socket Programming, HTML/CSS, JavaScript
-
-## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nadine-mcheik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF4FB3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nnm30@mail.aub.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-9B5CFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/nadineMck">
+    <img src="https://img.shields.io/badge/GitHub-3D8BFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/signal.svg" width="100%" alt="Current signal" />
+</p>
+
+<table>
+<tr>
+<td width="46%" align="center" valign="top">
+
+<img src="./assets/profile-green.jpg" width="390" alt="Nadine Mcheik portrait" />
+
+</td>
+<td width="54%" valign="top">
+
+### `about.me`
+
+I'm **Nadine Mcheik**, a Computer Science & Engineering graduate from the **American University of Beirut**, currently pursuing a master's degree while working in **R&D on agentic AI systems**.
+
+I like problems where intelligent systems need to do more than produce one good answer: **remember, adapt, coordinate, evaluate themselves, and improve over time**.
+
+My current research orbit sits around:
+
+`agentic AI` · `self-evolving systems` · `embodied AI`  
+`machine learning` · `efficient inference` · `algorithms` · `quantum`
+
+I am especially interested in turning ambitious research questions into systems that can actually be built, tested, and broken.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 01 / research universe
+
+```text
+                    ┌──────────────┐
+                    │  AGENTIC AI  │
+                    └──────┬───────┘
+                           │
+            ┌──────────────┼──────────────┐
+            │              │              │
+      ┌─────▼─────┐  ┌────▼────┐   ┌────▼─────┐
+      │  MEMORY   │  │ LEARNING │   │ EVALUATION│
+      └─────┬─────┘  └────┬────┘   └────┬─────┘
+            │              │              │
+            └──────────────┼──────────────┘
+                           │
+                    ┌──────▼───────┐
+                    │  EMBODIED AI │
+                    └──────────────┘
+```
+
+I am currently most interested in systems that **learn from experience without blindly learning from everything**, preserve useful behavior, and improve through evidence rather than intuition.
+
+**Questions I keep coming back to:**
+- When should an agent update itself — and when should it refuse to learn?
+- How do we evaluate whether a persistent update actually caused improvement?
+- How should agents manage memory, tools, permissions, privacy, and feedback over long horizons?
+- How do these ideas transfer from language agents to embodied systems and robot learning?
+- How can we make intelligent systems faster and more efficient without sacrificing reliability?
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 02 / what I work on
+
+### 🧠 Agentic AI R&D
+
+I work on infrastructure for intelligent agents, including:
+
+- memory and persistent state
+- feedback-driven learning loops
+- tool use and permission systems
+- privacy / PII protection
+- evaluation and closed-loop learning
+- local + remote model orchestration
+- multilingual feedback analysis and clustering
+
+The part I enjoy most is the boundary between **research idea** and **working system**: defining the failure mode, designing the mechanism, building the experiment, and deciding whether the change actually helped.
+
+---
+
+### ⚛️ Quantum + algorithms
+
+My earlier research path was heavily shaped by **theory, algorithms, and quantum computing**.
+
+I worked across quantum communication/security and machine learning, and my final-year project involved a **photonic quantum random number generator**.
+
+I also founded and served as president of the **AUB Quantum Club**, creating a community around quantum computing and research.
+
+---
+
+### ⚙️ CERN / high-performance computing
+
+I worked on research connected to **CERN's Patatrack ecosystem**, exploring a Mojo port and studying performance, software efficiency, and compilation tradeoffs.
+
+That experience pushed me toward the systems side of AI: not only *what* an algorithm does, but how efficiently and reliably we can make it run.
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 03 / selected experiments
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 FlutterForecast
+
+**Satellite intelligence for locust forecasting**
+
+A geospatial ML platform designed for NGOs and farmers, combining satellite imagery, forecasting, and machine learning.
+
+`geospatial ML` `satellite imagery` `forecasting`
+
+**Recognition**
+- 🥇 NASA Space Apps Beirut — 1st place & Global Nominee
+- 🥇 Amazon Industry Program — 1st place
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 TestSuite
+
+**AI-assisted software testing**
+
+A tool for generating unit tests and documentation while reasoning about function coverage and software behavior.
+
+`LLMs` `software engineering` `testing`
+
+**Recognition**
+- 🥇 42 Beirut × Blackbox.ai Hackathon — 1st place
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Feel-The-Flow
+
+**Dynamic sound from motion**
+
+Transforms accelerometer and gyroscope signals into musical structure — melody, rhythm, chords, and intensity.
+
+`sensors` `signal processing` `generative systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 ProxyPro
+
+**Secure proxy infrastructure**
+
+Built a proxy server with authentication, caching, networking optimizations, and a web application firewall.
+
+`Python` `Flask` `TCP/IP` `security`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 04 / system stack
+
+Instead of a wall of logos, this is how I actually think about my toolkit:
+
+| Layer | Tools / areas |
+|---|---|
+| **Intelligence** | PyTorch · Transformers · RL · representation learning |
+| **Agents** | memory · tools · evaluation · feedback learning · orchestration |
+| **Systems** | Python · C++ · high-performance computing · APIs |
+| **Scientific computing** | NumPy · Pandas · scikit-learn · numerical methods |
+| **Research** | experimentation · benchmarking · ablations · literature review |
+| **Infrastructure** | Git · Docker · Azure / AWS · Linux |
+| **Foundations** | algorithms · probability · optimization · information theory · quantum |
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 05 / a few coordinates
+
+- 🌟 Ranked **#1 in Lebanon** in the Lebanese Baccalaureate
+- 🎓 AUB Computer Science & Engineering graduate
+- 📚 Minor in Mathematics; strong focus on Theory & Algorithms
+- 🏅 Dean's Honor List
+- 💻 Research experience with CERN
+- ⚛️ Founder & President, AUB Quantum Club
+- 🥇 Multiple hackathon and innovation awards
+- 🔬 Currently pursuing graduate research at AUB
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 06 / now
+
+```text
+status:      building
+mode:        research + engineering
+curiosity:   very much online
+```
+
+Current themes:
+
+**self-evolving agents** → learning what to keep, reject, or revise  
+**embodied intelligence** → bringing adaptive learning into physical systems  
+**efficient inference** → making powerful models cheaper and faster  
+**evaluation** → proving that an update helped rather than merely changed behavior
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## 07 / connect
+
+<p align="center">
+  <b>If you're working on agents, embodied AI, ML systems, or research that is slightly too ambitious, I probably want to hear about it.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadine-mcheik">
+    <img src="https://img.shields.io/badge/LinkedIn-FF4FB3?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nnm30@mail.aub.edu">
+    <img src="https://img.shields.io/badge/Email-9B5CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Beirut · papers · code · too many open tabs</sub>
 </p>
