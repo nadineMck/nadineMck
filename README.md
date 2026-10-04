@@ -85,15 +85,15 @@ I am currently most interested in systems that **learn from experience without b
 
 ### 🧠 Agentic AI R&D
 
-I work on infrastructure for intelligent agents, including:
 
-- memory and persistent state
-- feedback-driven learning loops
-- tool use and permission systems
-- privacy / PII protection
-- evaluation and closed-loop learning
-- local + remote model orchestration
-- multilingual feedback analysis and clustering
+My work focuses on how intelligent agents **learn, remember, adapt, and improve over time:**.
+
+- **persistent and self-evolving agents**
+- **memory and long-horizon reasoning**
+- **learning from feedback and experience**
+- **safe tool use and controllable autonomy**
+- **evaluation of agent updates**
+- **efficient hybrid AI systems**
 
 The part I enjoy most is the boundary between **research idea** and **working system**: defining the failure mode, designing the mechanism, building the experiment, and deciding whether the change actually helped.
 
