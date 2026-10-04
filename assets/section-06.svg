@@ -1,0 +1,9 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#FF4FB3"/><stop offset=".5" stop-color="#9B5CFF"/><stop offset="1" stop-color="#3D8BFF"/></linearGradient></defs>
+<rect width="1200" height="130" rx="28" fill="#0D0D18"/>
+<rect x="1" y="1" width="1198" height="128" rx="27" fill="none" stroke="url(#g)" stroke-opacity=".5"/>
+<text x="40" y="52" fill="#A9A6B9" font-size="18" font-family="ui-monospace,monospace" letter-spacing="3">06</text>
+<text x="115" y="58" fill="#FFFFFF" font-size="32" font-weight="700" font-family="Inter,Arial,sans-serif">CURRENT SIGNAL</text>
+<text x="115" y="94" fill="#B9B5C9" font-size="17" font-family="Inter,Arial,sans-serif">what I am exploring now</text>
+<rect x="40" y="112" width="1120" height="3" rx="2" fill="url(#g)" opacity=".8"/>
+</svg>

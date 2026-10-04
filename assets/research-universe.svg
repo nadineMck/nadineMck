@@ -1,0 +1,25 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1200" y2="500">
+<stop stop-color="#FF4FB3"/><stop offset=".5" stop-color="#9B5CFF"/><stop offset="1" stop-color="#3D8BFF"/>
+</linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="500" rx="32" fill="#0B0B14"/>
+<g stroke="#8A78B8" stroke-opacity=".38" stroke-width="2">
+<path d="M600 96 L320 225 L600 392 L880 225 Z"/><path d="M600 96 L600 392"/><path d="M320 225 L880 225"/>
+</g>
+<g fill="#11111E" stroke="url(#g)" stroke-width="3">
+<circle cx="600" cy="96" r="64"/><circle cx="320" cy="225" r="68"/><circle cx="880" cy="225" r="68"/><circle cx="600" cy="392" r="68"/>
+</g>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+<text x="600" y="90" fill="#fff" font-size="22" font-weight="700">AGENTIC</text><text x="600" y="118" fill="#fff" font-size="22" font-weight="700">AI</text>
+<text x="320" y="219" fill="#fff" font-size="20" font-weight="700">MEMORY</text><text x="320" y="247" fill="#B9B4CC" font-size="15">long-horizon state</text>
+<text x="880" y="219" fill="#fff" font-size="20" font-weight="700">LEARNING</text><text x="880" y="247" fill="#B9B4CC" font-size="15">adaptation + feedback</text>
+<text x="600" y="386" fill="#fff" font-size="20" font-weight="700">EMBODIED AI</text><text x="600" y="414" fill="#B9B4CC" font-size="15">agents in the physical world</text>
+</g>
+<circle cx="600" cy="96" r="7" fill="#FF4FB3" filter="url(#glow)"/>
+<circle cx="320" cy="225" r="7" fill="#9B5CFF" filter="url(#glow)"/>
+<circle cx="880" cy="225" r="7" fill="#3D8BFF" filter="url(#glow)"/>
+<circle cx="600" cy="392" r="7" fill="#A579FF" filter="url(#glow)"/>
+</svg>
